@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Default.aspx](./CS/EditableDetails/Default.aspx) (VB: [Default.aspx.vb](./VB/EditableDetails/Default.aspx.vb))
+* [Default.aspx.cs](./CS/EditableDetails/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/EditableDetails/Default.aspx.vb))
+<!-- default file list end -->
 # A simple example of master-detail grids with editing capabilities
 
 
